@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+}
+.container__item {
+  width: 50%;
+  max-width: 50%;
+}
+.container__video {
+  width: 100%;
+}
